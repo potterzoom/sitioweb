@@ -1,0 +1,23 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Banner Styles */
+.banner {
+    background-color: #007bff; /* Color de fondo del banner */
+    color: white;
+}
+
+.intro p, .testimonials p {
+    font-size: 1.1em;
+}
+
+.info img, .vision img, .operations img, .theme-description img, .portfolio img {
+    width: 100px;
+    height: 100px;
+}
+
+.testimonials strong {
+    font-size: 1.2em;
+}
